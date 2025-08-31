@@ -1,26 +1,36 @@
-👋 Hi, I’m Rishika Sharma
-I’m an aspiring Data Analyst with a passion for turning raw data into meaningful insights. I enjoy working with SQL, Python, Excel, and Power BI to clean, analyze, and visualize data in ways that help businesses make smarter decisions.
+# 👋 Hi, I’m Rishika Sharma  
 
-🔎 What I Do
+I’m an **aspiring Data Analyst** with a passion for turning raw data into meaningful insights.  
+I enjoy working with **SQL, Python, Excel, and Power BI** to clean, analyze, and visualize data in ways that help businesses make smarter decisions.  
 
-📊 Data Analysis & Visualization – transforming complex datasets into easy-to-understand dashboards.
+---
 
-🐍 Python for Data – data cleaning, analysis, and automation.
+## 🔎 What I Do  
 
-💾 SQL Queries – writing and optimizing queries to extract actionable insights.
+- 📊 **Data Analysis & Visualization** – transforming complex datasets into easy-to-understand dashboards.  
+- 🐍 **Python for Data** – data cleaning, analysis, and automation.  
+- 💾 **SQL Queries** – writing and optimizing queries to extract actionable insights.  
+- 📈 **Power BI & Excel** – building interactive reports and models.  
 
-📈 Power BI & Excel – building interactive reports and models.
+---
 
-📂 What You’ll Find Here
+## 📂 What You’ll Find Here  
 
-Practice projects in SQL, Python, and Excel
+- ✅ Practice projects in **SQL, Python, and Excel**  
+- ✅ Dashboards & reports built in **Power BI**  
+- ✅ Case studies on **real-world datasets**  
+- ✅ Notes & resources from my learning journey  
 
-Dashboards & reports built in Power BI
+---
 
-Case studies on real-world datasets
+## 🚀 My Goals  
 
-Notes & resources from my learning journey
+I’m eager to:  
+- Apply my skills in **real-world projects**  
+- Collaborate with **teams**  
+- Grow as a professional **Data Analyst**  
 
-🚀 My Goals
+---
 
-I’m eager to apply my skills in real-world projects, collaborate with teams, and grow as a professional Data Analyst.
+⭐ Feel free to check out my projects and connect with me!  
+
